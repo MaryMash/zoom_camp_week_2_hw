@@ -10,6 +10,7 @@ inputs:
     values: [yellow, green]
     defaults: yellow
 
+
 variables:
   file: "{{inputs.taxi}}_tripdata_{{ trigger.date | date ('yyyy-MM')}}.csv"
   staging_table: "public.{{inputs.taxi}}_tripdata_staging"

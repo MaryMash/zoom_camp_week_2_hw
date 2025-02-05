@@ -17,3 +17,7 @@
 
 6. How would you configure the timezone to New York in a Schedule trigger?
 - Answer: Add a timezone property set to America/New_York in the Schedule trigger configuration
+
+### To do
+- [x] Создать бакеты в YC
+- [ ] Создать Clichouse в YC
